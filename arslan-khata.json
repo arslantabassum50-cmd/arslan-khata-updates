@@ -1,0 +1,10 @@
+{
+  "versionCode": 21,
+  "versionName": "V21.0",
+  "minSupportedVersionCode": 21,
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/latest/download/Arslan-Khata.apk",
+  "changelog": [
+    "Current stable version"
+  ],
+  "forceUpdate": false
+}
