@@ -1,12 +1,13 @@
 {
-  "versionCode": 23,
-  "versionName": "V21.2",
+  "versionCode": 24,
+  "versionName": "V21.3",
   "minSupportedVersionCode": 21,
-  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v21.2/Arslan-Khata.apk",
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v21.3/Arslan-Khata.apk",
   "changelog": [
-    "Customer PDF report improved",
-    "Clickable Arslan Khata app download link added",
-    "Version and update system improved"
+    "Party CSV export fixed",
+    "Party PDF export fixed",
+    "Contact selection improved",
+    "Update notification and What's New added"
   ],
   "forceUpdate": false
 }
