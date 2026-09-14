@@ -1,12 +1,14 @@
 {
-  "versionCode": 25,
-  "versionName": "V21.3",
+  "versionCode": 26,
+  "versionName": "V1.1",
   "minSupportedVersionCode": 21,
-  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v21.3/Arslan-Khata.apk",
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.1/Arslan-Khata.apk",
   "changelog": [
-    "Party CSV and PDF export improved",
+    "Stable V1.1 release",
     "Contact selection improved",
-    "Update notification improved"
+    "Party CSV and PDF improved",
+    "Premium app sounds added",
+    "Update system improved"
   ],
   "forceUpdate": false
 }
