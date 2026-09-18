@@ -1,14 +1,16 @@
 {
-  "versionCode": 25,
-  "versionName": "V1.1",
+  "versionCode": 26,
+  "versionName": "V1.2",
   "minSupportedVersionCode": 21,
-  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.1/Arslan-Khata.apk",
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.2/Arslan-Khata.apk",
   "changelog": [
-    "Stable V1.1 release",
-    "Contact selection improved",
-    "Party CSV and PDF improved",
-    "Premium app sounds added",
-    "Update system improved"
+    "Arslan Khata V1.2 release",
+    "Stock Demand / Purchase Order PDF improved",
+    "High-quality selectable vector PDF added",
+    "Party Quick Actions layout improved",
+    "Clickable Arslan Printers website and app download links added",
+    "Branding and stability improvements",
+    "General bug fixes"
   ],
   "forceUpdate": false
 }
