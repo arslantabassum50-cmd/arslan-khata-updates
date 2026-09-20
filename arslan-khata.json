@@ -1,15 +1,14 @@
 {
-  "versionCode": 27,
-  "versionName": "V1.3",
+  "versionCode": 28,
+  "versionName": "V1.4",
   "minSupportedVersionCode": 21,
-  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.3/Arslan-Khata.apk",
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.4/Arslan-Khata.apk",
   "changelog": [
-    "Complete Backup now includes Stock data",
-    "Product Images and Order History backup/restore improved",
-    "Stock quantities now restore correctly",
-    "Ledger PDF improved",
-    "Purchase / Demand Order PDF improved",
-    "New premium update popup added",
+    "Complete Stock Backup and Restore improved",
+    "Stock quantities, product images and order history backup improved",
+    "Party Ledger PDF generation improved",
+    "WhatsApp PDF sharing improved",
+    "Update detection and version checking improved",
     "General stability improvements and bug fixes"
   ],
   "forceUpdate": false
