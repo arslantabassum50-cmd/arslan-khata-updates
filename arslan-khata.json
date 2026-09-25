@@ -1,15 +1,12 @@
 {
-  "versionCode": 28,
-  "versionName": "V1.4",
+  "versionCode": 26,
+  "versionName": "V1.5",
   "minSupportedVersionCode": 21,
-  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.4/Arslan-Khata.apk",
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.5/Arslan-Khata.apk",
   "changelog": [
-    "Complete Stock Backup and Restore improved",
-    "Stock quantities, product images and order history backup improved",
-    "Party Ledger PDF generation improved",
-    "WhatsApp PDF sharing improved",
-    "Update detection and version checking improved",
-    "General stability improvements and bug fixes"
+    "Payment Wada Card profile details fixed",
+    "Dynamic shop address and payment account details",
+    "Arslan Khata V1.5"
   ],
   "forceUpdate": false
 }
