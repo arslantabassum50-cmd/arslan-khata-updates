@@ -8,11 +8,16 @@
     "Print Your Ideas With Us text made editable from Shop/Business Profile for Account Clear and Payment Reminder cards",
     "Party search improved to show accurate saved party name and phone number results",
     "Select Contact improved to show actual phone contacts with name and number",
+    "Fixed single contact result visibility when the keyboard is open",
     "Phone number is required when adding a new party/customer",
     "Pakistani phone number validation added for 03006532947, 3006532947 and +923006532947 formats",
     "Invalid or incomplete phone numbers are rejected with a clear error message",
     "Add Customer form made keyboard-aware so phone field and save button remain accessible",
-    "Party/customer list sorting fixed to alphabetical A-Z by actual customer name"
+    "Party/customer list sorting fixed to alphabetical A-Z by actual customer name",
+    "Added Wada Alarm Tune selection in Shop/Business Profile",
+    "Added 3–4 built-in Wada alarm tune options with preview",
+    "Selected Wada alarm tune is saved and persists after app restart",
+    "Wada alarm continues using the existing alarm and notification system"
   ],
   "forceUpdate": false
 }
