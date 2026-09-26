@@ -1,12 +1,18 @@
 {
-  "versionCode": 29,
-  "versionName": "V1.5",
+  "versionCode": 30,
+  "versionName": "V1.6",
   "minSupportedVersionCode": 21,
-  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.5/Arslan-Khata.apk",
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.6/Arslan-Khata.apk",
   "changelog": [
-    "Payment Wada Card profile details fixed",
-    "Dynamic shop address and payment account details",
-    "Arslan Khata V1.5"
+    "Shop/Business Profile Save Settings success and error confirmation added",
+    "Print Your Ideas With Us text made editable from Shop/Business Profile for Account Clear and Payment Reminder cards",
+    "Party search improved to show accurate saved party name and phone number results",
+    "Select Contact improved to show actual phone contacts with name and number",
+    "Phone number is required when adding a new party/customer",
+    "Pakistani phone number validation added for 03006532947, 3006532947 and +923006532947 formats",
+    "Invalid or incomplete phone numbers are rejected with a clear error message",
+    "Add Customer form made keyboard-aware so phone field and save button remain accessible",
+    "Party/customer list sorting fixed to alphabetical A-Z by actual customer name"
   ],
   "forceUpdate": false
 }
