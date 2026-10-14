@@ -1,19 +1,19 @@
 
 {
-  "versionCode": 35,
-  "versionName": "V2.1",
+  "versionCode": 36,
+  "versionName": "V2.2",
   "minSupportedVersionCode": 21,
-  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v2.1/Arslan-Khata.apk",
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v2.2/Arslan-Khata.apk",
   "changelog": [
-    "KHATADOT V2.1 - BIG UPDATE!",
-    "Arslan Khata is now KHATADOT!",
-    "Brand-new professional sidebar and navigation design.",
-    "New Banks & Wallets Management.",
-    "Send and Receive Money.",
-    "Transfer Money Between Your Own Accounts.",
-    "Complete Wallet Transaction History.",
-    "Improved Screenshot Selection and Preview.",
-    "Performance and Stability Improvements."
+    "BIG UPDATE: Arslan Khata is now KHATADOT!",
+    "New KHATADOT branding and professional sidebar design.",
+    "Manage Banks and Mobile Wallet Accounts.",
+    "Send and Receive Money with transaction history.",
+    "Transfer money between your own wallet accounts.",
+    "Improved update popup branding and dynamic version display.",
+    "Screenshot selection and preview available (permanent saving not included).",
+    "Performance and stability improvements.",
+    "Existing customer Khata, Wada and Stock records supported."
   ],
   "forceUpdate": false
 }
