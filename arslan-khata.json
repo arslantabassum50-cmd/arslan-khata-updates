@@ -1,19 +1,53 @@
-
 {
-  "versionCode": 36,
-  "versionName": "V2.2",
+  "versionCode": 38,
+  "versionName": "V2.3",
   "minSupportedVersionCode": 21,
-  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v2.2/Arslan-Khata.apk",
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v2.3/Arslan-Khata.apk",
   "changelog": [
-    "BIG UPDATE: Arslan Khata is now KHATADOT!",
-    "New KHATADOT branding and professional sidebar design.",
-    "Manage Banks and Mobile Wallet Accounts.",
-    "Send and Receive Money with transaction history.",
-    "Transfer money between your own wallet accounts.",
-    "Improved update popup branding and dynamic version display.",
-    "Screenshot selection and preview available (permanent saving not included).",
-    "Performance and stability improvements.",
-    "Existing customer Khata, Wada and Stock records supported."
+    "Redesigned Backup & Restore screen with Local Backup and Google Drive controls.",
+    "View the five latest Google Drive backups and use Load more to restore older backups.",
+    "Shop and Home expense totals now show the full amount with two decimal places.",
+    "View receipt thumbnails in Expense History and tap to zoom.",
+    "Improved expense saving and automatic photo compression.",
+    "Confirm a contact's name and phone number before adding it to the customer form."
   ],
-  "forceUpdate": false
+  "forceUpdate": false,
+  "releaseHistory": [
+    {
+      "versionCode": 36,
+      "versionName": "V2.2",
+      "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v2.2/Arslan-Khata.apk",
+      "changelog": [
+        "BIG UPDATE: Arslan Khata is now KHATADOT!",
+        "New KHATADOT branding and professional sidebar design.",
+        "Manage Banks and Mobile Wallet Accounts.",
+        "Send and Receive Money with transaction history.",
+        "Transfer money between your own wallet accounts.",
+        "Improved update popup branding and dynamic version display.",
+        "Screenshot selection and preview available (permanent saving not included).",
+        "Performance and stability improvements.",
+        "Existing customer Khata, Wada and Stock records supported."
+      ]
+    },
+    {
+      "versionCode": 33,
+      "versionName": "V1.8",
+      "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.7/Arslan-Khata.apk",
+      "changelog": [
+        "Payment Wada Card profile details fixed",
+        "Dynamic shop address and payment account details",
+        "Arslan Khata V1.8"
+      ]
+    },
+    {
+      "versionCode": 31,
+      "versionName": "V1.7",
+      "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v1.7/Arslan-Khata.apk",
+      "changelog": [
+        "Payment Wada Card profile details fixed",
+        "Dynamic shop address and payment account details",
+        "Arslan Khata V1.5"
+      ]
+    }
+  ]
 }
