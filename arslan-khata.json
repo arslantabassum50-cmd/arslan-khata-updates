@@ -1,15 +1,15 @@
 {
-  "versionCode": 38,
-  "versionName": "V2.3",
+  "versionCode": 40,
+  "versionName": "V2.4",
   "minSupportedVersionCode": 21,
-  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v2.3/Arslan-Khata.apk",
+  "apkUrl": "https://github.com/arslantabassum50-cmd/arslan-khata-updates/releases/download/v2.4/Arslan-Khata.apk",
   "changelog": [
-    "Redesigned Backup & Restore screen with Local Backup and Google Drive controls.",
-    "View the five latest Google Drive backups and use Load more to restore older backups.",
-    "Shop and Home expense totals now show the full amount with two decimal places.",
-    "View receipt thumbnails in Expense History and tap to zoom.",
-    "Improved expense saving and automatic photo compression.",
-    "Confirm a contact's name and phone number before adding it to the customer form."
+    "Banks & Wallets: record payments in, payments out, and transfers between your accounts. Review balances before confirming.",
+    "Business Setup: new users can set up their shop name, logo, contact, and payment details step by step, or skip setup.",
+    "Expenses: view exact Shop and Home totals and tap receipt thumbnails to see the full photo.",
+    "Backup & Restore: browse local and Google Drive backups and choose which backup to restore.",
+    "Smoother scrolling: load older ledger entries and expenses without losing your place.",
+    "Improved save reliability and fixes for Wada reminders, stock updates, and backup restore."
   ],
   "forceUpdate": false,
   "releaseHistory": [
